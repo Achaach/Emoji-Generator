@@ -23,6 +23,8 @@ You can find the dataset here in the link: https://www.kaggle.com/datasets/msamb
 
 2. Emoji photos: The emojis are made by myself, please find them in the data folder.
 
+<img width="460" alt="Screen Shot 2023-02-27 at 5 17 17 PM" src="https://user-images.githubusercontent.com/90078254/221698554-fd8337fd-239c-45c1-b5dc-8f28e8ce0dbf.png">
+
 ### Result:
 The final result gave us a emoji generator by captioning the emotion, however, sometimes our models cannot distinguish some expressions well, probably because our epochs is not high, or our trainning dataset is not good enough.
 <video src='https://user-images.githubusercontent.com/90078254/221697560-d231276c-e5e5-4f51-bc52-cbd6e64dc2c6.mov' width=80>
